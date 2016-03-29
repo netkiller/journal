@@ -1,0 +1,25 @@
+# Site settings
+title: Netkiller 电子书
+email: netkiller@msn.com
+description: ""
+baseurl: ""
+url: "http://www.netkiller.cn"
+twitter_username: netkiller@msn.com
+github_username:  netkiller
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  ebook:
+    output: true
+
+  journal:
+    output: true
+
+  about:
+    output: true
+
+  interview:
+    output: true  
