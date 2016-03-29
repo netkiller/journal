@@ -36,10 +36,17 @@ categories: engineer operations
 
 1. 服务器IO瓶颈都在那些地方？
 
+#### Fibre Channel vs FCoE
+
+1. 请比较 Fibre 与 FCoE 有缺点，以及适合场景
+
+
 ### 网络
 
 1. 由于网卡损坏，或者水晶头接触不良导致断线，有没有解决方案？
 1. 当网卡1G已经不能满足通信要求，你怎么样应对，你的解决方案是什么？
+
+
 
 - - -
 

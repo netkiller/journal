@@ -8,6 +8,11 @@ categories: engineer operations
 高级网络工程师
 -----
 
+### 高可用设计
+
+1. 防火墙/路由器怎样实现高可用
+2. 交换机的高可用
+
 ### Cisco 系统
 
 
