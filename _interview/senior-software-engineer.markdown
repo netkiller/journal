@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: interview
 title:  "Senior software engineer"
 date:   2016-03-03 09:00:00
 categories: engineer php java
@@ -112,6 +112,13 @@ db.select(new field("name","age"...)).from("user").where(new And("xxx=xx", "xxx=
 
 消息有哪些瓶颈？
 
+- - -
+
+序列化
+---
+
+1. 什么是序列化
+1. 常用序列化方式都有哪些
 
 - - -
 
@@ -124,11 +131,5 @@ CDN应用
 1. JSON 可能缓存吗？
 1. 浏览器缓存与CDN缓存的关系，怎样实现用户浏览器与CDN同时缓存？
 
-当你的网站
-
 - - - 
 
-作者
----
-
-[netkiller]: http://www.netkiller.cn
