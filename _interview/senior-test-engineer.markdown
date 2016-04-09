@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: interview
 title:  "senior test engineer "
 date:   2016-03-03 10:00:00
 categories: engineer test
@@ -14,9 +14,32 @@ categories: engineer test
 
 ### 自动化测试
 
-1. 怎样解决验证输入的问题
+1. 怎样解决图片验证吗输入的问题
+1. 怎会解决手机验证码输入问题
 
+### 注入测试
+
+1. POST 注入测试
+1. GET 注入测试
+1. SQL 注入测试
 
 
 
 - - -
+
+## 情景模拟
+
+### Web 服务器压力测试
+
+需求：开发人员已经完成开发工作，现在需要对他的代码做一次压力测试
+问题：你将怎样做这次压力测试？请描述出工作中的重点。
+你现在有一个空的测试服务器，没有安装操作系统，这是起点。
+
+### Ajax 测试
+
+### GET 请求测试
+
+### POST 提交测试
+
+### Restfull 
+
