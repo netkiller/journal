@@ -8,14 +8,21 @@ categories: architect
 架构师
 -----
 
-### 插件的实现原理
+### 瓶颈分析
+
+请分析一下，下面图中可能出现的瓶颈并提出优化方案
+
+User --> Wan -> Firewall -> Switch -> SLB -> Web Server -> Cache -> Database
 
 
-
-### MVC/SOA
-
+### 设计一个10G交换的网络
 
 
+### SSI 服务器端包含应用
+
+背景
+
+www.example.com
 
 
 
