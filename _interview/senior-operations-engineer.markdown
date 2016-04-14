@@ -90,6 +90,17 @@ RPM安装 与 编译安装有什么区别，是否编译安装性能会更好？
 ### 应用服务器
 
 1. 谈谈Tomcat优化
+1. Nginx 通过代理服务器访问 Tomcat ， Java应用输出页面含有SSI标签，Nginx 怎样处理 java 输出的SSI标签
+
+### Rewrite
+
+源地址：
+http://www.netkiller.cn/index.html?id=100
+
+Rewrite后：
+http://www.netkiller.cn/article/100.html
+
+请问如何实现
 
 - - -
 
