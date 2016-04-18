@@ -92,6 +92,17 @@ RPM安装 与 编译安装有什么区别，是否编译安装性能会更好？
 1. 谈谈Tomcat优化
 1. Nginx 通过代理服务器访问 Tomcat ， Java应用输出页面含有SSI标签，Nginx 怎样处理 java 输出的SSI标签
 
+### Nginx location 基础知识？
+
+当前 document root 是 /www/example.com/www.example.com
+URL 为 http://www.example.com
+
+现在需要实现 http://www.example.com/inc
+
+将 inc 定为到 /www/example.com/inc.example.com
+
+请问如何实现
+
 ### Rewrite
 
 源地址：
