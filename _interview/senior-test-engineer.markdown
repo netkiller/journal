@@ -35,6 +35,9 @@ categories: engineer test
 
 ## 情景模拟
 
+![Alt text](images/testing/Pyramid.png)
+
+
 ### Web 服务器压力测试
 
 需求：开发人员已经完成开发工作，现在需要对他的代码做一次压力测试
