@@ -35,7 +35,7 @@ categories: engineer test
 
 ## 情景模拟
 
-![Alt text](images/testing/Pyramid.png)
+![Pyramid](../images/testing/Pyramid.png)
 
 
 ### Web 服务器压力测试
