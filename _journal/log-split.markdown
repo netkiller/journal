@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: journal
 title:  "一次切割日志引发的血案"
 date:   2016-05-05 17:00:00
 categories: log
