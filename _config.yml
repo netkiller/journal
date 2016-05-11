@@ -22,4 +22,9 @@ collections:
     output: true
 
   interview:
+    output: true
+
+  car:
+    output: true
+  miscellaneous:
     output: true  
