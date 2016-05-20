@@ -10,6 +10,9 @@ github_username:  netkiller
 # Build settings
 markdown: kramdown
 permalink: pretty
+gems: [jekyll-paginate]
+paginate: 20
+paginate_path: "page:num"
 
 collections:
   ebook:
@@ -26,5 +29,8 @@ collections:
 
   car:
     output: true
+    paginate: 20
+    paginate_path: "car/page:num"
+
   miscellaneous:
     output: true  
