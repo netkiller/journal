@@ -1,7 +1,7 @@
 ---
 layout: journal
 title: 谈船用发动机
-date: 2016-05-09T19:30:00.000Z
+date: '2016-05-09T19:30:00.000Z'
 categories: car
 ---
 

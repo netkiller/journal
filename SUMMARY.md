@@ -1,6 +1,8 @@
 # Table of contents
 
 * [目录](README.md)
+* [哲学](zhe-xue/README.md)
+  * [Untitled](zhe-xue/untitled.md)
 * [README](_miscellaneous/README.md)
   * [摘抄](_miscellaneous/zhai-chao/README.md)
     * [剑道](_miscellaneous/zhai-chao/jian-dao.md)
