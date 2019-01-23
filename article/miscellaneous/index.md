@@ -1,5 +1,4 @@
-免费电子书项目
-=============
+# 免费电子书项目
 
 《Netkiller 系列 手札》是一套免费系列电子书，[netkiller](http://netkiller.github.io/home/about.html) 是nickname 从1999 开使用至今，“手札” 是札记，手册的含义。
 
@@ -17,11 +16,9 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 
 由于硬盘损坏数据丢失 《Netkiller Postfix Integrated Solution》 的 SGML文件已经不存在; Docbook SGML存在很多缺陷UTF-8支持不好，转而使用Docbook XML.
 
+## 文档的维护
 
-文档的维护
-----------
-最开始所有 XML 文档托管在 http://netkiller.sourceforge.net/，由于大陆经常封锁后迁移到 http://netkiller.github.io/
-版本控制也随着迁移从Subversion 到 Git
+最开始所有 XML 文档托管在 [http://netkiller.sourceforge.net/，由于大陆经常封锁后迁移到](http://netkiller.sourceforge.net/，由于大陆经常封锁后迁移到) [http://netkiller.github.io/](http://netkiller.github.io/) 版本控制也随着迁移从Subversion 到 Git
 
 《Netkiller 系列 手札》 99.9% 由 netkiller 贡献。我也曾经想过吸收志同道合的朋友一起完成旷世之作，但真的很难。也可能是我的影响力还不够。
 
@@ -29,7 +26,8 @@ IT知识变化非常快，而且具有时效性，这样发布非常混乱，经
 
 目前《Netkiller 系列 手札》已有一定规模，量已经非常足，需要进一步细化，如果有一个写作团队，它会将影响很多人。同时我也在考虑是否有必要去掉 netkiller 一词。
 
-- [怎样成为一位贡献者](contribute.html) 
-- [团队协作](teamwork.html)
-- [写作环境](workspace.html)
-- [Git](git.html)
+* [怎样成为一位贡献者](https://github.com/netkiller/journal/tree/933d303f01ccc46825cba7fdb0aa5657f5f607ca/article/miscellaneous/contribute.html) 
+* [团队协作](https://github.com/netkiller/journal/tree/933d303f01ccc46825cba7fdb0aa5657f5f607ca/article/miscellaneous/teamwork.html)
+* [写作环境](https://github.com/netkiller/journal/tree/933d303f01ccc46825cba7fdb0aa5657f5f607ca/article/miscellaneous/workspace.html)
+* [Git](https://github.com/netkiller/journal/tree/933d303f01ccc46825cba7fdb0aa5657f5f607ca/article/miscellaneous/git.html)
+

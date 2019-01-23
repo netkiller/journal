@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
+# about
+
 作者简介
 
-陈景峯 (ㄔㄣ ㄐ丨ㄥ ㄈㄥ)
+陈景峯 \(ㄔㄣ ㄐ丨ㄥ ㄈㄥ\)
 
-Nickname：netkiller | English name: Neo chen | Nippon name: ちんけいほう (音訳) | Korean name: 천징봉 | Thailand name: ภูมิภาพภูเขา
+Nickname：netkiller \| English name: Neo chen \| Nippon name: ちんけいほう \(音訳\) \| Korean name: 천징봉 \| Thailand name: ภูมิภาพภูเขา
 
-Callsign: BG7NYT | QTH: ZONE CQ24 ITU44 ShenZhen, China
+Callsign: BG7NYT \| QTH: ZONE CQ24 ITU44 ShenZhen, China
 
 程序猿，攻城狮，挨踢民工, Full Stack Developer, UNIX like Evangelist, 业余无线电爱好者（呼号：BG7NYT）,户外运动，山地骑行以及摄影与钢琴爱好者。
 
@@ -18,15 +20,15 @@ Callsign: BG7NYT | QTH: ZONE CQ24 ITU44 ShenZhen, China
 
 成长阶段
 
-1981年1月19日(庚申年腊月十四)出生于黑龙江省青冈县建设乡双富大队第一小队
+1981年1月19日\(庚申年腊月十四\)出生于黑龙江省青冈县建设乡双富大队第一小队
 
 1989年9岁随父母迁居至黑龙江省伊春市，悲剧的天朝教育，不知道那门子归定，转学必须降一级，我本应该上一年级，但体制让我上学前班，那年多都10岁了
 
-1995年小学毕业，体制规定借读要交3000两银子(我曾想过不升初中)，亲戚单位分楼告别平房，楼里没有地方放东西，把2麻袋书送给我，无意中发现一本电脑书BASIC语言，我竟然看懂了，对于电脑知识追求一发而不可收，后面顶零花钱，压岁钱主要用来买电脑书《MSDOS 6.22》《新编Unix实用大全》《跟我学Foxbase》。。。。。。
+1995年小学毕业，体制规定借读要交3000两银子\(我曾想过不升初中\)，亲戚单位分楼告别平房，楼里没有地方放东西，把2麻袋书送给我，无意中发现一本电脑书BASIC语言，我竟然看懂了，对于电脑知识追求一发而不可收，后面顶零花钱，压岁钱主要用来买电脑书《MSDOS 6.22》《新编Unix实用大全》《跟我学Foxbase》。。。。。。
 
-1996年第一次接触UNIX操作系统，BSD UNIX, Microsoft Xinux(盖茨亲自写的微软Unix，知道的人不多)
+1996年第一次接触UNIX操作系统，BSD UNIX, Microsoft Xinux\(盖茨亲自写的微软Unix，知道的人不多\)
 
-1997年自学Turbo C语言，苦于没有电脑，后来学校建了微机室才第一次使用QBASIC(DOS 6.22 自带命令)，那个年代只能通过软盘拷贝转播，Trubo C编译器始终没有搞到，
+1997年自学Turbo C语言，苦于没有电脑，后来学校建了微机室才第一次使用QBASIC\(DOS 6.22 自带命令\)，那个年代只能通过软盘拷贝转播，Trubo C编译器始终没有搞到，
 
 1997年第一次上Internet网速只有9600Bps, 当时全国兴起各种信息港域名格式是www.xxxx.info.net, 访问的第一个网站是NASA下载了很多火星探路者拍回的照片，还有“淞沪”sohu的前身
 
@@ -72,7 +74,7 @@ Callsign: BG7NYT | QTH: ZONE CQ24 ITU44 ShenZhen, China
 
 2014-10-2号罗浮山两日游，对中国道教文化与音乐产生了兴趣，10月5号用了半天时间学会了简谱。10月8号入Canon 5D Mark III + Canon Speedlite 600EX-RT香港过关被查。
 
-2014-12-20号对乐谱制作产生兴趣（https://github.com/SheetMusic/Piano），给女儿做了几首钢琴伴奏曲，并计划将小汤，大汤，巴斯蒂安，拜厄，车尔尼...制谱然后生成MIDI与WAV文件。
+2014-12-20号对乐谱制作产生兴趣（[https://github.com/SheetMusic/Piano），给女儿做了几首钢琴伴奏曲，并计划将小汤，大汤，巴斯蒂安，拜厄，车尔尼...制谱然后生成MIDI与WAV文件。](https://github.com/SheetMusic/Piano），给女儿做了几首钢琴伴奏曲，并计划将小汤，大汤，巴斯蒂安，拜厄，车尔尼...制谱然后生成MIDI与WAV文件。)
 
 2015-09-01 晚饭后拿起爵士鼓基础教程尝试在Casio Privia PX-5S pro演练，经过反复琢磨加上之前学钢琴的乐理知识，终于在02号晚上，打出了简单的基本节奏，迈出了第一步。
 
@@ -80,9 +82,9 @@ Callsign: BG7NYT | QTH: ZONE CQ24 ITU44 ShenZhen, China
 
 联系作者
 
-http://netkiller.github.io/
+[http://netkiller.github.io/](http://netkiller.github.io/)
 
-http://netkiller.sourceforge.net/
+[http://netkiller.sourceforge.net/](http://netkiller.sourceforge.net/)
 
 Mobile: +86 13113668890
 
@@ -90,7 +92,7 @@ Callsign: BG7NYT QTH: Shenzhen, China
 
 Email: netkiller@msn.com
 
-MSN:	netkiller@msn.com
+MSN: netkiller@msn.com
 
 ICQ: 101888222
 
@@ -99,9 +101,6 @@ QQ: 13721218
 Yahoo/AIM/GTalk: bg7nyt
 
 IRC: irc://irc.freenode.net /nickname netkiller or neo
-
-
-
 
 注：请不要问我安装问题！
 
@@ -121,31 +120,31 @@ Best Regards, VY 73! OP. BG7NYT
 
 Blogger
 
-LinkedIn: http://cn.linkedin.com/in/netkiller
+LinkedIn: [http://cn.linkedin.com/in/netkiller](http://cn.linkedin.com/in/netkiller)
 
-OSChina: http://my.oschina.net/neochen/
+OSChina: [http://my.oschina.net/neochen/](http://my.oschina.net/neochen/)
 
-ITEYE: http://netkiller-github-com.iteye.com
+ITEYE: [http://netkiller-github-com.iteye.com](http://netkiller-github-com.iteye.com)
 
-Flickr: http://www.flickr.com/photos/bg7nyt/
+Flickr: [http://www.flickr.com/photos/bg7nyt/](http://www.flickr.com/photos/bg7nyt/)
 
-Twitter: http://twitter.com/bg7nyt
+Twitter: [http://twitter.com/bg7nyt](http://twitter.com/bg7nyt)
 
-Digg: http://www.digg.com/netkiller
+Digg: [http://www.digg.com/netkiller](http://www.digg.com/netkiller)
 
-Facebook: https://www.facebook.com/bg7nyt
+Facebook: [https://www.facebook.com/bg7nyt](https://www.facebook.com/bg7nyt)
 
-Disqus: http://disqus.com/netkiller/
+Disqus: [http://disqus.com/netkiller/](http://disqus.com/netkiller/)
 
-solidot: http://solidot.org/~netkiller/
+solidot: [http://solidot.org/~netkiller/](http://solidot.org/~netkiller/)
 
-51CTO: http://bg7nyt.blog.51cto.com/|http://g.51cto.com/netkiller
+51CTO: [http://bg7nyt.blog.51cto.com/\|http://g.51cto.com/netkiller](http://bg7nyt.blog.51cto.com/|http://g.51cto.com/netkiller)
 
-pengyou: http://www.pengyou.com/netkiller
+pengyou: [http://www.pengyou.com/netkiller](http://www.pengyou.com/netkiller)
 
-weibo:	http://weibo.com/bg7nyt
+weibo: [http://weibo.com/bg7nyt](http://weibo.com/bg7nyt)
 
-163 Blog:	http://t.163.com/netkiller
+163 Blog: [http://t.163.com/netkiller](http://t.163.com/netkiller)
 
 我的梦想 - 为了梦想而奋斗！！！
 
@@ -179,6 +178,7 @@ Canon Speedlite 600EX-RT / Canon Speedlite 430EX
 
 Casio Privia PX-5S pro
 
-Toyota Mark X (Rezi)
+Toyota Mark X \(Rezi\)
 
 Motorola XIR M8668
+
